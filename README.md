@@ -7,5 +7,5 @@ Spotify app review Analysis
 
 # Interaction 
 
-# Licencing / Aknowledgement
+# Licencing / Other Info
 
